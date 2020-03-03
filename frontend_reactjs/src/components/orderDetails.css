@@ -1,0 +1,12 @@
+.layout_item {
+    min-width: 0;
+    max-width: 100%;
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 1 auto;
+    -ms-flex: 0 1 auto;
+    flex: 0 1 auto;
+    padding-top: 2rem;
+    padding-left: 2rem;
+    border: 1px solid #ddd;
+    background-color: #f1f1f1;
+}
